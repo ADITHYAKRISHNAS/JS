@@ -13,3 +13,11 @@ You can use function **decleration** or funtion **expretion**.
 
   [Example](index.html) 
 
+## Function Expressions
+
+A JavaScript function can also be defined using an **expression**.
+
+A function expression can be stored in a variabl
+
+
+[Example](index1.html) 
