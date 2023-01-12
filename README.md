@@ -2,13 +2,13 @@
     [x] Event Loop
 
 ##[] Promises
-    [] resolve
-    [] reject
-    [] all
-    [] allSettled
-    [] any
+    [x] resolve
+    [x] reject
+    [x] all
+    [x] allSettled
+    [x] any
         - Returns a single promise after success, if everything fails then it show "All promises were rejected"
-    [] race
+    [x] race
         - Return a single promise as soon as it fails or succeeds
 
 
