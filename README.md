@@ -1,7 +1,8 @@
-##[x] CallBack
+## [x] CallBack
     [x] Event Loop
 
-##[] Promises
+## [x] Promises
+
     [x] resolve
     [x] reject
     [x] all
@@ -12,9 +13,9 @@
         - Return a single promise as soon as it fails or succeeds
 
 
-## Async/Await
-    [] try/catch
-    [] Pro Tips
+## [x] Async/Await
+    [x] try/catch
+    [x] Pro Tips
 
 
 
